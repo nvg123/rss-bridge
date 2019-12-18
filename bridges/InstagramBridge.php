@@ -41,7 +41,7 @@ class InstagramBridge extends BridgeAbstract {
 			'direct_links' => array(
 				'name' => 'Use direct media links',
 				'type' => 'checkbox',
-			)
+			),
 			'no_media_in_text' => array(
 				'name' => 'Exclude media from text',
 				'type' => 'checkbox',
